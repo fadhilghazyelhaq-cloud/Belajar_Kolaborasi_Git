@@ -1,2 +1,2 @@
 nama = "Fadhil Ghazy El Haq"
-asal = "SMK IT"
+asal = "SMK IT - Pesantren"
