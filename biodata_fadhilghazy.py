@@ -1,2 +1,2 @@
-nama = "Fadhil Ghazy El Haq"
-asal = "SMK IT - Pesantren"
+nama = "Fadhil Ghazy"
+hobi = "Belajar Git Conflict"
